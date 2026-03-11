@@ -19,4 +19,4 @@ Currently working at **Lightly**.
 ## 📫 Contact
 
 * GitHub: https://github.com/liopeer
-* LinkedIn: *(add if you want)*
+* LinkedIn: https://www.linkedin.com/in/lionel-peer
