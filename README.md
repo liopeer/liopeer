@@ -10,12 +10,6 @@ Currently working at **Lightly**.
 
 ---
 
-## 🕸️ Contributions Radar
-
-![Radar](https://metrics.lecoq.io/liopeer?template=classic\&plugin=achievements\&plugin=followup\&plugin=activity)
-
----
-
 ## 📫 Contact
 
 * GitHub: https://github.com/liopeer
